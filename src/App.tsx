@@ -1,4 +1,6 @@
-import './App.css'
+import './styles/theme.css'
+import './styles/global.css'
+
 import Footer from './components/Footer/Footer'
 import Header from './components/Header/Header'
 import Layout from './components/Layout'
